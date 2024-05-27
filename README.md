@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I am Geethika Shoba<br>Nice to see meet you.</h1>
+<h1 align="left">Hey, I am Geethika Shoba<br>Nice to meet you.</h1>
 
 ###
 
